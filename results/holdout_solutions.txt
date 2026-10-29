@@ -1,0 +1,17 @@
+# explicit solutions for the phase-2 positions the radius-4 search left above 23 moves
+# position: C4RNER permutation (6) | orientation (6) / CENTERS2 (12)   | length | solution in the ground-truth file's move names (X' = X twice)
+# each was replayed on the full puzzle (all four piece sets): it ends solved up to whole-puzzle rotation
+1 2 3 4 5 6 | 0 0 0 0 0 0 / 4 1 3 1 4 2 1 3 2 2 3 4 | 22 | BL U BL' BR L' F L BR' U' L' F' L B BR' D BR F' BR' F D' BR B'
+1 5 4 3 2 6 | 2 3 3 1 1 2 / 3 2 4 2 3 1 2 4 1 1 4 3 | 23 | L' B F' U' BL F' U BL' B' F' L D BL' D L BL' F BL F' L' D' BL D'
+6 2 4 3 5 1 | 3 2 1 3 2 1 / 2 3 1 3 2 4 3 1 4 4 1 2 | 23 | D' L BR' F' BL BR' F BL' BR' L' D B BL' B D BL' BR BL BR' D' B' BL B'
+6 5 3 4 2 1 | 1 1 2 2 3 3 / 1 4 2 4 1 3 4 2 3 3 2 1 | 23 | B' D U' BR' BL U' BR BL' D' U' B L BL' L B BL' U BL U' B' L' BL L'
+1 5 4 3 2 6 | 0 1 1 3 3 0 / 2 1 2 4 4 3 3 1 2 4 3 1 | 20 | U' B' R' U' BR F BR' U F' R B U D BR BL' U BR' U' BL D'
+6 5 3 4 2 1 | 3 3 0 0 1 1 / 4 3 4 2 2 1 1 3 4 2 1 3 | 20 | U' L' B' BL U' BR U BL' BR' B L U D BL F' U BL' U' F D'
+6 2 4 3 5 1 | 1 0 3 1 0 3 / 3 4 3 1 1 2 2 4 3 1 2 4 | 20 | U L R F' U BR' U' F BR R' L' U' D' F' BL U' F U BL' D
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 1 4 2 4 1 3 4 2 3 3 2 1 | 22 | D L D F' U BL F U' BL' D' L' D' U R BR' BL BR R' F U' BL' F'
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 2 3 1 3 2 4 3 1 4 4 1 2 | 22 | D R L' U' BR F' U BR' F L R' D' BR' BL L BR U BL' U' BL L' BL'
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 1 2 1 3 3 4 4 2 1 3 4 2 | 22 | D BR' BL' BR R' BR F BL BR' F' R D' B L' U BR' F' BR U' F L B'
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 3 2 4 2 3 1 2 4 1 1 4 3 | 22 | R' D' L BL BR' F BL' BR F' L' D R BR U' L' BL' U BL U' L BR' U
+6 2 4 3 5 1 | 1 2 3 1 2 3 / 3 4 1 3 1 4 2 4 3 1 2 2 | 22 | D R U BR' F U' BR F' R' D' F U R BR' R' U' F' BR B' BR B BR'
+6 5 3 4 2 1 | 3 3 2 2 1 1 / 1 3 4 2 2 1 4 2 4 3 1 3 | 22 | D L U F' BL U' F BL' L' D' BL U L F' L' U' BL' F R' F R F'
+1 5 4 3 2 6 | 2 1 1 3 3 2 / 2 2 2 4 3 3 3 1 1 4 4 1 | 22 | R L BL U' F BL' U F' L' R' F BL L U' L' BL' F' U B' U B U'

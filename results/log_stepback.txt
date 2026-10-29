@@ -1,0 +1,5 @@
+holdouts_target23.txt: 14 sweep results
+holdouts.txt: 13609 sweep results
+phase-2 bounds in use:  18: 1126335622  19: 1069460066  20: 818440584  21: 178048038  22: 11626933  23: 3
+loops with first-move data: 11568601; positions with bound 23: 3
+level 23: 3 positions x 16 moves; neighbours not shown to be within 23: 0 (over 0 positions); 3.019e+04 loop applications

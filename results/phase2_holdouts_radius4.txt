@@ -1,0 +1,16 @@
+# phase-2 positions with no solution of at most 23 moves inside the search radius; then the best route found by the macro sweep
+# C4RNER permutation (6) | orientation (6) / CENTERS2 (12)  ->  best total = loop length + bound of the position it lands on
+1 2 3 4 5 6 | 0 0 0 0 0 0 / 4 1 3 1 4 2 1 3 2 2 3 4  ->  22 = loop of 12 + 10
+1 5 4 3 2 6 | 2 3 3 1 1 2 / 3 2 4 2 3 1 2 4 1 1 4 3  ->  23 = loop of 11 + 12
+6 2 4 3 5 1 | 3 2 1 3 2 1 / 2 3 1 3 2 4 3 1 4 4 1 2  ->  23 = loop of 11 + 12
+6 5 3 4 2 1 | 1 1 2 2 3 3 / 1 4 2 4 1 3 4 2 3 3 2 1  ->  23 = loop of 11 + 12
+1 5 4 3 2 6 | 0 1 1 3 3 0 / 2 1 2 4 4 3 3 1 2 4 3 1  ->  20 = loop of 12 + 8
+6 5 3 4 2 1 | 3 3 0 0 1 1 / 4 3 4 2 2 1 1 3 4 2 1 3  ->  20 = loop of 8 + 12
+6 2 4 3 5 1 | 1 0 3 1 0 3 / 3 4 3 1 1 2 2 4 3 1 2 4  ->  20 = loop of 8 + 12
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 1 4 2 4 1 3 4 2 3 3 2 1  ->  22 = loop of 12 + 10
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 2 3 1 3 2 4 3 1 4 4 1 2  ->  22 = loop of 12 + 10
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 1 2 1 3 3 4 4 2 1 3 4 2  ->  22 = loop of 10 + 12
+1 2 3 4 5 6 | 2 2 2 2 2 2 / 3 2 4 2 3 1 2 4 1 1 4 3  ->  22 = loop of 12 + 10
+6 2 4 3 5 1 | 1 2 3 1 2 3 / 3 4 1 3 1 4 2 4 3 1 2 2  ->  22 = loop of 10 + 12
+6 5 3 4 2 1 | 3 3 2 2 1 1 / 1 3 4 2 2 1 4 2 4 3 1 3  ->  22 = loop of 10 + 12
+1 5 4 3 2 6 | 2 1 1 3 3 2 / 2 2 2 4 3 3 3 1 1 4 4 1  ->  22 = loop of 10 + 12

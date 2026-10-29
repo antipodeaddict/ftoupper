@@ -1,0 +1,17 @@
+holdouts_target23.txt: 14 sweep results
+holdouts.txt: 13609 sweep results
+phase-2 bounds in use:  18: 1126335622  19: 1069460066  20: 818440584  21: 178048038  22: 11626933  23: 3
+phase-2 maximum 23; positions whose phase-1 part needs at most 14 are within 37
+411 phase-1 positions, 19728 solutions, all replayed to phase-1-solved
+target 36: phase-2 positions with bound above 21: 11626936
+  50 of 411 phase-1 positions checked, 0 pairs left over so far
+  100 of 411 phase-1 positions checked, 0 pairs left over so far
+  150 of 411 phase-1 positions checked, 0 pairs left over so far
+  200 of 411 phase-1 positions checked, 0 pairs left over so far
+  250 of 411 phase-1 positions checked, 0 pairs left over so far
+  300 of 411 phase-1 positions checked, 0 pairs left over so far
+  350 of 411 phase-1 positions checked, 0 pairs left over so far
+  400 of 411 phase-1 positions checked, 0 pairs left over so far
+  411 of 411 phase-1 positions checked, 0 pairs left over so far
+target 36: 0 (phase-1 position, phase-2 position) pairs not covered, in 0 of 411 phase-1 positions
+=> the deepest phase-1 positions are within 36, but the others are only within 37
